@@ -10,7 +10,7 @@
 ---
 ## 安装
 
-依赖requests和BeautifulSoup 
+依赖requests和BeautifulSoup 可以使用pip 安装
 
 ```python
 
