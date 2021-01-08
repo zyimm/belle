@@ -7,9 +7,10 @@
 
 ![2b1fe364e7d56a7b6b39d4ae6e87498a](http://api.img.zyimm.com/media/20201209/2b1fe364e7d56a7b6b39d4ae6e87498a.png)
 
-下载图片
+**下载图片**:
 
 ![0de5b053e8a821ce7619b632c1c569a3](http://api.img.zyimm.com/media/20210108/0de5b053e8a821ce7619b632c1c569a3.jpg)
+
 ---
 ## 安装
 
