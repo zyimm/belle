@@ -16,6 +16,8 @@
 
 # 进入脚本目录,执行脚本即可
 
+# run 方法中 templete = f"https://www.mzitu.com/xinggan/page/{i}/" 可以更改自己喜欢的分类进行下载
+
 python belle.py
 
 ```
